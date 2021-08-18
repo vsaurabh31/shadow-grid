@@ -1,6 +1,6 @@
 {
   "name": "p-shadow-grid",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Add awesome shadows for UI Developer",
   "main": "index.js",
   "scripts": {
