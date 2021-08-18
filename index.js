@@ -1,4 +1,4 @@
-function pshadowgrid(options){
+function pshadow(options){
     let images = document.querySelectorAll('.pshadowgrid');
 
     if(options.shadow_type === 'solid'){
@@ -15,4 +15,4 @@ function pshadowgrid(options){
     })
 }
 
-module.exports.pshadowgrid = pshadowgrid;
+module.exports.pshadow = pshadow;
