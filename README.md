@@ -10,7 +10,7 @@ Then...
 
 ```
 
-import { shadowgrid } from 'shadowgrid';
+import { shadowgrid } from 'p-shadow-grid';
 
 shadowgrid({
     shadow_type:'soft',
