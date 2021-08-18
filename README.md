@@ -10,9 +10,9 @@ Then...
 
 ```
 
-import { shadowgrid } from 'p-shadow-grid';
+import { pshadowgrid } from 'pshadowgrid';
 
-shadowgrid({
+pshadowgrid({
     shadow_type:'soft',
     padding:false
 })

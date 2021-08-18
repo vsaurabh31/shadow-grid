@@ -15,4 +15,4 @@ function shadowgrid(options){
     })
 }
 
-module.exports.shadowgrid = shadowgrid;
+module.exports.pshadowgrid = shadowgrid;
