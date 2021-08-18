@@ -4,15 +4,15 @@ Get best shadow every time for all UI Developer.
 
 # Installation
 
-`npm i pshadow --save`
+`npm i p-shadow-grid --save`
 
 Then...
 
 ```
 
-import { pshadow } from 'pshadow';
+import { p-shadow-grid } from 'p-shadow-grid';
 
-pshadow({
+p-shadow-grid({
     shadow_type:'soft',
     padding:false
 })
