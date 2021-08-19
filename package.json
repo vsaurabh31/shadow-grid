@@ -1,5 +1,5 @@
 {
-  "name": "p-shadow-grid",
+  "name": "p-shadow-grid-test",
   "version": "1.0.5",
   "description": "Add awesome shadows for UI Developer",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/vsaurabh31/shadow-grid/issues"
   },
-  "homepage": "https://github.com/vsaurabh31/shadow-grid#readme"
+  "homepage": "https://github.com/vsaurabh31/shadow-grid#readme",
+  "dependencies": {
+    "p-shadow-grid": "^1.0.5"
+  }
 }
