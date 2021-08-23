@@ -4,7 +4,7 @@ Get best shadow every time for all UI Developer.
 
 # Installation
 
-`npm i p-shadow-grid --save`
+`npm i p-shadow-grid-add --save`
 
 Then...
 
